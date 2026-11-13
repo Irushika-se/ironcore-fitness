@@ -4,8 +4,7 @@ A professional, responsive gym website built with WordPress and the free Astra t
 
 > The classes, prices, coaches, timetable and "About" text are sample content. Replace them with the real business details before launch (see "Before going live").
 
-## Screenshots
-Add images to `docs/screenshots/` and link them here, for example `![Home](docs/screenshots/home.png)`.
+
 
 ## Features
 - 8 pages created automatically: Home, About, Classes, Pricing, Schedule, Trainers, Contact, Privacy Policy
